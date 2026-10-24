@@ -1,0 +1,26 @@
+Transaction_ID,Date,Customer_ID,Customer_Segment,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Pct,Total_Revenue,Payment_Method,Satisfaction_Score
+TXN-1001,2024-01-05,CUST-501,Enterprise,North America,Electronics,Wireless Noise-Canceling Headphones,12,149.99,0.05,1709.89,Credit Card,4.8
+TXN-1002,2024-01-08,CUST-502,Consumer,Europe,Home Office,Ergonomic Mesh Chair,2,249.50,0.00,499.00,PayPal,4.5
+TXN-1003,2024-01-12,CUST-503,SMB,Asia-Pacific,Software,Cloud Storage Annual Plan,5,99.00,0.10,445.50,Direct Transfer,4.2
+TXN-1004,2024-01-15,CUST-504,Consumer,North America,Electronics,Ultra-Wide Monitor 34-inch,3,499.99,0.08,1379.97,Credit Card,4.9
+TXN-1005,2024-01-19,CUST-505,Enterprise,Europe,Hardware,Server Rack Mounting Kit,8,129.00,0.15,877.20,Direct Transfer,4.0
+TXN-1006,2024-01-22,CUST-506,Consumer,Asia-Pacific,Accessories,Mechanical Gaming Keyboard,4,89.95,0.00,359.80,Debit Card,4.6
+TXN-1007,2024-01-28,CUST-507,SMB,North America,Home Office,Adjustable Standing Desk,3,399.00,0.12,1053.36,Credit Card,4.7
+TXN-1008,2024-02-02,CUST-508,Consumer,Europe,Electronics,Smart Conference Speakerphone,6,179.99,0.05,1025.94,PayPal,4.3
+TXN-1009,2024-02-06,CUST-509,Enterprise,Asia-Pacific,Software,Cybersecurity Endpoint Protection,20,59.99,0.20,959.84,Direct Transfer,4.8
+TXN-1010,2024-02-11,CUST-510,Consumer,North America,Accessories,Ergonomic Vertical Mouse,7,45.50,0.00,318.50,Credit Card,4.4
+TXN-1011,2024-02-15,CUST-511,SMB,Europe,Electronics,4K Ultra HD Webcam,10,79.99,0.10,719.91,Credit Card,4.6
+TXN-1012,2024-02-19,CUST-512,Consumer,North America,Home Office,Dual Monitor Arm Mount,5,69.00,0.00,345.00,Debit Card,4.1
+TXN-1013,2024-02-24,CUST-513,Enterprise,North America,Software,Data Analytics Team License,15,199.00,0.15,2537.25,Credit Card,5.0
+TXN-1014,2024-02-28,CUST-514,SMB,Asia-Pacific,Hardware,Managed 24-Port Gigabit Switch,4,299.00,0.05,1136.20,Direct Transfer,4.5
+TXN-1015,2024-03-03,CUST-515,Consumer,Europe,Accessories,USB-C Multiport Hub Adapter,14,39.99,0.00,559.86,PayPal,4.3
+TXN-1016,2024-03-08,CUST-516,Enterprise,Asia-Pacific,Home Office,Executive Leather Task Chair,6,349.00,0.10,1884.60,Direct Transfer,4.7
+TXN-1017,2024-03-12,CUST-517,SMB,North America,Electronics,Wireless Presentation Clicker,8,29.99,0.00,239.92,Credit Card,4.2
+TXN-1018,2024-03-17,CUST-518,Consumer,Europe,Electronics,Active Noise Canceling Earbuds,9,119.50,0.05,1021.72,Debit Card,4.6
+TXN-1019,2024-03-21,CUST-519,Enterprise,North America,Hardware,Uninterruptible Power Supply 1500VA,5,229.00,0.08,1053.40,Direct Transfer,4.8
+TXN-1020,2024-03-27,CUST-520,SMB,Asia-Pacific,Software,Team Collaboration Suite Annual,12,89.00,0.12,939.84,Credit Card,4.4
+TXN-1021,2024-04-02,CUST-521,Consumer,North America,Home Office,LED Desk Lamp with Wireless Charging,11,49.99,0.00,549.89,Credit Card,4.5
+TXN-1022,2024-04-07,CUST-522,Enterprise,Europe,Electronics,Portable Laser Projector 1080p,4,449.00,0.10,1616.40,Direct Transfer,4.7
+TXN-1023,2024-04-12,CUST-523,SMB,North America,Hardware,Network Attached Storage 4-Bay,3,549.99,0.05,1567.47,Credit Card,4.9
+TXN-1024,2024-04-16,CUST-524,Consumer,Asia-Pacific,Accessories,Laptop Cooling Stand Aluminium,8,34.99,0.00,279.92,Debit Card,4.2
+TXN-1025,2024-04-22,CUST-525,Enterprise,North America,Software,Enterprise CRM Cloud Addon,25,120.00,0.20,2400.00,Direct Transfer,4.8

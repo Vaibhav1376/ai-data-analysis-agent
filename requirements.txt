@@ -1,0 +1,22 @@
+# Web Application Framework
+streamlit>=1.41.0
+
+# Multi-Agent Framework
+agno>=2.2.10
+
+# In-Memory Analytical OLAP Engine
+duckdb>=1.1.0
+
+# LLM Providers
+openai>=1.58.0
+google-genai>=0.1.1
+
+# Data Manipulation & Formats
+pandas>=2.0.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+tabulate>=0.9.0
+
+# Environment Management & Visualization
+python-dotenv>=1.0.0
+plotly>=5.20.0

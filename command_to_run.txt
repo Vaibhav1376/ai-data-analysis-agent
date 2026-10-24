@@ -1,0 +1,8 @@
+# Run Primary Multi-Provider App (OpenAI + Gemini):
+streamlit run app.py
+
+# Or run standalone OpenAI edition:
+streamlit run ai_data_analyst.py
+
+# Or run standalone Gemini edition:
+streamlit run analyst_using_gemini.py
